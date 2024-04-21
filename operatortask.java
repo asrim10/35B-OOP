@@ -1,4 +1,4 @@
-package week2;
+
 public class operatortask {
     public static void main(String[] args) {
         /*task 1
