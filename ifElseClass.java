@@ -70,11 +70,12 @@ public class ifElseClass {
         int science=35, english= 55, math =89;
         int total= science+english+math;
         System.out.println(total);
-        int a=(science+english+math)/3;
+        double a=(science+english+math)/3;
+        System.out.println(a);
 
         if(a<60){
             System.out.println("Third div");
-        }
+        } 
         else if (a<70){
             System.out.println("Second div");
         }
