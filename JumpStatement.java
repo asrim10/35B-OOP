@@ -66,8 +66,7 @@ public class JumpStatement {
          */
         for(int i = 1; i <= 20; i++){
             if (i%2!=0) {
-                continue;
-                
+            continue;
             }
             System.err.println("EVEN " + i);
         }
