@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "task",
+            "request": "launch",
+            "mainClass": "task",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "InputOutput",
+            "request": "launch",
+            "mainClass": "InputOutput",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "JavaArguement",
+            "request": "launch",
+            "mainClass": "JavaArguement",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "JumpStatement",
+            "request": "launch",
+            "mainClass": "JumpStatement",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "OperatorClass",
+            "request": "launch",
+            "mainClass": "OperatorClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "PrefixPostfix",
+            "request": "launch",
+            "mainClass": "PrefixPostfix",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "SwitchCase",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "VariableClass",
+            "request": "launch",
+            "mainClass": "VariableClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "ifElseClass",
+            "request": "launch",
+            "mainClass": "ifElseClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "operatortask",
+            "request": "launch",
+            "mainClass": "operatortask",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "week1.Hello",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "task",
+            "request": "launch",
+            "mainClass": "week2.task",
+            "projectName": "Task_abe4b5d"
+        }
+    ]
+}

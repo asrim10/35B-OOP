@@ -18,7 +18,7 @@ public class OperatorClass {
         System.out.println("/= value is "+ (asNum1/=2));
         System.out.println("%= value is "+ (asNum1%=3));
 
-        /*Relationa Operator */
+        /*Relational Operator */
         int rNum1=20 , rNum2= 21;
         boolean rExpression= rNum1==rNum2; //returns true/false
         System.out.println("Equals to " + rExpression);
