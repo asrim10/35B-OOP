@@ -67,5 +67,6 @@ public class SwitchCase {
             System.out.println("Invalid");
                 break;
     }
+    scanner.close();
     }  
 }
