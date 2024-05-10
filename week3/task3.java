@@ -97,10 +97,10 @@ public class task3 {
             break;
         default:
         System.out.println("Invalid grade");
-            return;
+        return;       
     }
     System.out.println("THe corresponding GPA is " + gpa);
-    scan.close();
+    
 
     /*2. Create a Java program that takes two numbers and an operator (+, -, *, /) as inputs 
     and performs the corresponding arithmetic operation using a switch case statement. */
@@ -135,7 +135,7 @@ public class task3 {
             return;
     }
     System.out.println("Result = " +result);
-    num3.close();
+    
 
     /*3. Write a Java program that takes an integer input (1 to 12) representing a month 
     and prints the corresponding season (e.g., 1-3: Winter, 4-6: Spring, 7-9: Summer, 10-12: Fall) using a switch case. */
