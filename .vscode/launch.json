@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StaticFunction",
+            "request": "launch",
+            "mainClass": "StaticFunction",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "FunctionClass",
+            "request": "launch",
+            "mainClass": "FunctionClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
             "name": "taskk",
             "request": "launch",
             "mainClass": "week4.taskk",
