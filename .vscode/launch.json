@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
             "name": "StaticFunction",
             "request": "launch",
             "mainClass": "StaticFunction",
