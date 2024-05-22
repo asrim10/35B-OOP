@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiDImArrayLoop",
+            "request": "launch",
+            "mainClass": "week6.MultiDImArrayLoop",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimArray",
+            "request": "launch",
+            "mainClass": "week6.MultiDimArray",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLoop",
+            "request": "launch",
+            "mainClass": "week6.ArrayLoop",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayClass",
+            "request": "launch",
+            "mainClass": "week6.ArrayClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
             "name": "test",
             "request": "launch",
             "mainClass": "test",

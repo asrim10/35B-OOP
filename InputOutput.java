@@ -61,6 +61,7 @@ public class InputOutput {
          System.out.println("How many siblings?");
          int sibling=scan1.nextInt();
          System.out.println("You have " + sibling + " num of siblings");
+         scan1.close();
          
     }
     
