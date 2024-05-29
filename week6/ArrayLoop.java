@@ -1,5 +1,3 @@
-package week6;
-
 public class ArrayLoop {
     public static int arrayFinder(String[] alph, String find){
         for (int index = 0 ; index < alph.length; index++){

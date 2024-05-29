@@ -1,5 +1,3 @@
-package week6;
-
 public class MultiDImArrayLoop {
     public static void main(String[] args) {
         int [] [] twoArray= new int[2][3];
