@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterfaceClass",
+            "request": "launch",
+            "mainClass": "week_10.InterfaceClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "AbstractTask",
+            "request": "launch",
+            "mainClass": "week_10.AbstractTask",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClass",
+            "request": "launch",
+            "mainClass": "week_10.AbstractClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "Animals",
+            "request": "launch",
+            "mainClass": "Animals",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "InheritanceClass",
+            "request": "launch",
+            "mainClass": "week_9.InheritanceClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "BankingSystem",
+            "request": "launch",
+            "mainClass": "BankingSystem",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "EncapsulationClass",
+            "request": "launch",
+            "mainClass": "EncapsulationClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "Constructorr",
+            "request": "launch",
+            "mainClass": "week_7.Constructorr",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorClass",
+            "request": "launch",
+            "mainClass": "week_7.ConstructorClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "AccessModifier",
+            "request": "launch",
+            "mainClass": "week_7.AccessModifier",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
             "name": "FirstOop",
             "request": "launch",
             "mainClass": "week_7.FirstOop",

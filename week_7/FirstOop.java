@@ -1,5 +1,3 @@
-package week_7;
-
 public class FirstOop {
     public static void main(String[] args) {
         // Person p1 = new Person();
