@@ -1,7 +1,6 @@
 package week_10;
 public class InterfaceClass {
     public static void main(String[] args) {
-        
     }
 }
 // interface is made as same as class replacing with "interface"
@@ -20,7 +19,17 @@ interface MammalDo extends AnimalDo{
 interface DogDo extends MammalDo{
     public void bark();
 }
-class Husky implements DogDo{
+interface DomesticAnimalsDo{
+    public void pet();
+}
+class Husky implements DogDo,DomesticAnimalsDo{
+/*When implementing multiple interface, all the function from the implemented interfaces
+ * should be overidden
+ */
+    @Override
+    public void pet(){
+        System.out.println("Husky likes pet");
+    }
     //when implenting interface that extends another interface
     //must overide all the function made on top of it
     @Override
@@ -40,6 +49,7 @@ class Husky implements DogDo{
         System.out.println("Husky eat fish");
         return false;
     }
+    
 }
 
 // "implements" keyword to use interface
@@ -59,8 +69,6 @@ class cow implements AnimalDo{
     @Override
     public void move(){
         System.out.println(" cow move slow ");
-
-
     }
     @Override
     public boolean eat(String food){

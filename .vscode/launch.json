@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackExample",
+            "request": "launch",
+            "mainClass": "week12.StackExample",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandTask",
+            "request": "launch",
+            "mainClass": "week12.ExceptionHandTask",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "week12.ExceptionHandling",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismClass",
+            "request": "launch",
+            "mainClass": "week_11.PolymorphismClass",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
             "name": "InterfaceClass",
             "request": "launch",
             "mainClass": "week_10.InterfaceClass",
