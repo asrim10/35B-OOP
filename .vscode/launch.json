@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "countAlpha",
+            "request": "launch",
+            "mainClass": "practiceques.countAlpha",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "indexFind",
+            "request": "launch",
+            "mainClass": "practiceques.indexFind",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "StringLengthValidator",
+            "request": "launch",
+            "mainClass": "practiceques.StringLengthValidator",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "textEditorr",
+            "request": "launch",
+            "mainClass": "practiceques.textEditorr",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "textEditor",
+            "request": "launch",
+            "mainClass": "practiceques.textEditor",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "networkMonitoring",
+            "request": "launch",
+            "mainClass": "practiceques.networkMonitoring",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "Transaction",
+            "request": "launch",
+            "mainClass": "practiceques.Transaction",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "cart",
+            "request": "launch",
+            "mainClass": "practiceques.cart",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "bank",
+            "request": "launch",
+            "mainClass": "practiceques.bank",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "practiceques.Student",
+            "projectName": "Task_abe4b5d"
+        },
+        {
+            "type": "java",
             "name": "StackExample",
             "request": "launch",
             "mainClass": "week12.StackExample",
