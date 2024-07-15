@@ -3,7 +3,7 @@ package practiceques;
 public class bank {
     public static void main(String[] args) {
         BankAccount account1 = new BankAccount(1234567, "Asrim", 100000);
-        BankAccount account2 = new BankAccount(31231231, "Heroo", 99999);
+        BankAccount account2 = new BankAccount(31231231, "Kimtii", 99999);
 
         account1.withdraw(5000);
         account1.deposit(20000);
