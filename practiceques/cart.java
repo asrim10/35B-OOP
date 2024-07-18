@@ -8,7 +8,7 @@ public class cart {
     Product p1 = new Product("Lenovo LOQ 16", 185000);
     Product p2 = new Product("HP Omen 16", 200000);
     Product p3 = new Product("Acer Nitro 5", 150000);
-    ShoppingCart cart1= new ShoppingCart(1,"SIuuu");
+    ShoppingCart cart1= new ShoppingCart(1,"Asrim");
     cart1.addItem(p1);
     cart1.addItem(p2);
     cart1.addItem(p3);

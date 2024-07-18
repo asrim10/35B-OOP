@@ -43,7 +43,8 @@ class BankAccount {
         if (this.balance >= amount) {
             this.balance -= amount;
             System.out.println("Withdrawn Rs. " + amount + ". New balance: Rs. " + this.balance);
-        } else {
+        } 
+          else {
             System.out.println("Insufficient balance: Rs. " + this.balance);
         }
     }
